@@ -4,9 +4,7 @@ In this section are stored all helpful informations such as user manuals, faq, v
 
 SLEEK VIDEO TUTORIALS:
 
-Sleek First Configuration:
-
-Sleek Hands on:  
+Sleek First Configuration and basic use: https://youtu.be/O2FKLrCnnOM 
 
 Sleek Alarm Function:  https://youtu.be/T26g4KM7J8M
 
