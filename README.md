@@ -12,7 +12,7 @@ Sleek Alarm Function:  https://youtu.be/T26g4KM7J8M
 
 Sleek GPS configuration:
 
-Sleek Configuration Reset:
+Sleek Configuration Reset: https://youtu.be/WmgJgJNu0EY
 
 Sleek per il mercato italiano: https://youtu.be/FplbuYsonD0?si=vUhV2z24P_G8bptZ
 
