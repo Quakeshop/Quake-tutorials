@@ -6,7 +6,9 @@ Video Tutorials:
 
 Sleek Alarm Function:  https://youtu.be/T26g4KM7J8M
 
-Sleek Hands on: https://youtu.be/t9_7sYtsSp8?si=NAD_6TgaBC1TS0J5
+Sleek Hands on:  
+
+Sleek First Configuration:
 
 Sleek per il mercato italiano: https://youtu.be/FplbuYsonD0?si=vUhV2z24P_G8bptZ
 
