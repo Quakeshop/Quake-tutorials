@@ -14,7 +14,7 @@ Sleek Configuration Reset: https://youtu.be/WmgJgJNu0EY
 
 Sleek per il mercato italiano: https://youtu.be/FplbuYsonD0?si=vUhV2z24P_G8bptZ
 
-Additional Quake Project Videos at: https://www.youtube.com/@Quake-Project
+Additional Quake Project Videos at: https://www.youtube.com/@Nice_stuffs
 
 For any support requests:
 quakesshop01@gmail.com
