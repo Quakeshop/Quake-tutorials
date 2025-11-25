@@ -4,6 +4,8 @@ In this section are stored all helpful informations such as user manuals, faq, v
 
 //////////  MPD - LoRa Meshtastic \\\\\\\\\\\
 
+SOLAR MESHTASTIC REPEATER FIRST USE  https://youtu.be/ebTUt5h8P1Q?si=CdhWh-dXV89IIyJd 
+
 MPD HANDS ON MPD NEW MODEL  https://youtu.be/syXjWmUPt70?si=HoddT28T-78J-gGw
 
 MPD UTILIZZO APP QUAKE https://youtu.be/LHAnhafC3iQ?si=_Kq4w-XSO2aV3bW- 
