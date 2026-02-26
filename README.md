@@ -14,7 +14,7 @@ MPD DETAILS ON LoRa / MESHTASTIC PARAMETERS PART 1  https://youtu.be/cZPIYEpDtk8
 
 MPD DETAILS ON LoRa / MESHTASTIC PARAMETERS PART 2 https://youtu.be/bD1bubfF8pM?si=ppqN3_m4rCyLpj4X
 
-MPD DETAILS ON LoRa / MESHTASTIC PARAMETERS PART 3 https://youtu.be/Re2D5hZaK84?si=xg2LqmFctibSmZtm
+MPD DETAILS ON LoRa / MESHTASTIC PARAMETERS PART 3 https://youtu.be/_JDN050Lfa8?si=ydYhjelkhIgirg4W
 
 //////////  QUAKE  \\\\\\\\\\\
 
