@@ -6,6 +6,12 @@ In this section are stored all helpful informations such as user manuals, faq, v
 QOM200 EP01: 1st hands on
 https://youtu.be/jQS_d60mYp8?is=IfR8DfelbxmpvLtl
 
+QOM200 EP02: Chatting App
+https://youtu.be/KUtxaL6v1-0?is=Rmt3DcL1TQojF_Lt
+
+QOM200 EP03:SD file system 
+https://youtu.be/dNW-sg-NqeI?is=k20ET7bcQ_ENLYrr
+
 SOLAR MESHTASTIC REPEATER FIRST USE  https://youtu.be/ebTUt5h8P1Q?si=CdhWh-dXV89IIyJd 
 
 MPD HANDS ON MPD NEW MODEL  https://youtu.be/syXjWmUPt70?si=HoddT28T-78J-gGw
