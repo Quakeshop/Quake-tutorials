@@ -3,6 +3,8 @@
 In this section are stored all helpful informations such as user manuals, faq, video tutorials, in order to let user start up and use a Quake device properly.
 
 //////////  MPD - LoRa Meshtastic \\\\\\\\\\\
+QOM200 EP01: 1st hands on
+https://youtu.be/jQS_d60mYp8?is=IfR8DfelbxmpvLtl
 
 SOLAR MESHTASTIC REPEATER FIRST USE  https://youtu.be/ebTUt5h8P1Q?si=CdhWh-dXV89IIyJd 
 
