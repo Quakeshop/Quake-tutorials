@@ -12,6 +12,9 @@ https://youtu.be/KUtxaL6v1-0?is=Rmt3DcL1TQojF_Lt
 QOM200 EP03:SD file system 
 https://youtu.be/dNW-sg-NqeI?is=k20ET7bcQ_ENLYrr
 
+QOM200 EP04:LoRa Meshtastic Gateway 
+https://youtu.be/Sih0Zl_Pku0?is=iC5HvyeG7vgS6AZ7
+
 SOLAR MESHTASTIC REPEATER FIRST USE  https://youtu.be/ebTUt5h8P1Q?si=CdhWh-dXV89IIyJd 
 
 MPD HANDS ON MPD NEW MODEL  https://youtu.be/syXjWmUPt70?si=HoddT28T-78J-gGw
