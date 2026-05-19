@@ -12,7 +12,7 @@ https://youtu.be/KUtxaL6v1-0?is=Rmt3DcL1TQojF_Lt
 QOM200 EP03:SD file system 
 https://youtu.be/dNW-sg-NqeI?is=k20ET7bcQ_ENLYrr
 
-QOM200 EP04:Gateway LoRa Meshtastic (EARTHQUAKES) 
+QOM200 EP04: Gateway LoRa Meshtastic (EARTHQUAKES) 
 https://youtu.be/Sih0Zl_Pku0?is=iC5HvyeG7vgS6AZ7
 
 QOM200 EP05: Gateway LoRa Meshtastic (WEATHER FORECAST)
