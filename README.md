@@ -18,6 +18,9 @@ https://youtu.be/Sih0Zl_Pku0?is=iC5HvyeG7vgS6AZ7
 QOM200 EP05: Gateway LoRa Meshtastic (WEATHER FORECAST)
 https://youtu.be/qI2JdZJ_ej4?si=FjGk_YMDO3aYeC1O
 
+QOM200: how to trasfer new bin file on SD
+https://youtube.com/shorts/6AoYUx4rKds?is=BvPgdQjvlqjpnbvc
+
 SOLAR MESHTASTIC REPEATER FIRST USE  https://youtu.be/ebTUt5h8P1Q?si=CdhWh-dXV89IIyJd 
 
 MPD HANDS ON MPD NEW MODEL  https://youtu.be/syXjWmUPt70?si=HoddT28T-78J-gGw
