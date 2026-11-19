@@ -3,6 +3,9 @@
 In this section are stored all helpful informations such as user manuals, faq, video tutorials, in order to let user start up and use a Quake device properly.
 
 //////////  MPD - LoRa Meshtastic \\\\\\\\\\\
+MPD300 HANDS ON:
+https://youtube.com/shorts/p0PJBd-Q0d4?is=8QJ-EnURhTP9Kv1F
+
 QOM200 EP01: 1st hands on
 https://youtu.be/jQS_d60mYp8?is=IfR8DfelbxmpvLtl
 
